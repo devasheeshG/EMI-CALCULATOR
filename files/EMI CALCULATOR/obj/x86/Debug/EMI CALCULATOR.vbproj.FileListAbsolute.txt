@@ -1,0 +1,9 @@
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\bin\Debug\EMI CALCULATOR.exe
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\bin\Debug\EMI CALCULATOR.pdb
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\bin\Debug\EMI CALCULATOR.xml
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\obj\x86\Debug\EMI_CALCULATOR.Form1.resources
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\obj\x86\Debug\EMI_CALCULATOR.Resources.resources
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\obj\x86\Debug\EMI CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\obj\x86\Debug\EMI CALCULATOR.exe
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\obj\x86\Debug\EMI CALCULATOR.xml
+C:\Users\Let's Build Website\Desktop\Visual Studio 2010\EMI CALCULATOR\EMI CALCULATOR\obj\x86\Debug\EMI CALCULATOR.pdb
